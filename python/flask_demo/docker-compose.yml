@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+
+  backend:
+    container_name: flask_demo
+    restart: always
+    build: .
+    ports:
+      - "80:80"
+    command: python3 app.py
