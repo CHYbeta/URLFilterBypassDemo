@@ -2,3 +2,4 @@
 
 ## Python
 1. [URL FIlter 绕过 - Python 之 Flask](python/flask_demo)
+2. [URL FIlter 绕过 - Python 之 Django](python/django_demo)
